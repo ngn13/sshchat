@@ -15,7 +15,7 @@ commands to the server, and the server sends the messages that the client should
 The "protocol" is explained with more details in the [protocol documentation](docs/protocol.md).
 
 ### Features
-- **Performance**: Server and the client uses a multi-threaded architecture - allo
+- **Performance**: Server and the client uses a multi-threaded architecture.
 - **Configuration**: You can configure every aspect of your server - SSH keys, MOTD, password protection etc.
 - **Administration**: You can authenticate as an admin to kick, nick ban and IP ban other users.
 
